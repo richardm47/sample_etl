@@ -1,2 +1,4 @@
 # sample_etl
-Sample ETL pipeline to read data from APIs and push to SQLite
+Sample ETL pipeline flow to read data from github APIs and push to SQLite
+
+Main file: ETL.py
